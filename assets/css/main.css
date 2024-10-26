@@ -2118,13 +2118,7 @@ input, select, textarea {
 				#header .icons a:hover {
 					color: #fff;
 				}
-		.semi-white-bg {
-			background-color: rgba( 255,255,255, 0.7 );
-			border-radius: 25px;
-			padding: 10px;
-			width: 75%;
-			margin-top: 12%;
-				}
+		
 
 	#logo {
 		position: relative;
